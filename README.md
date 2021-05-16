@@ -1,0 +1,1 @@
+This is Thingsicodeoften's first git project!
